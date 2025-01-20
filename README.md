@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Serhii-Kukhar  
+- 👀 I’m interested in web development, hydroengineering, and self-improvement.  
+- 🌱 I’m currently learning JavaScript, HTML, CSS, and preparing for my first web project.  
+- 💞️ I’m looking to collaborate on beginner-friendly web development projects and creative ideas.  
+- 📫 How to reach me: [s3riykuhar1@gmail.com](mailto:s3riykuhar1@gmail.com)  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I have a master’s degree in hydroengineering but decided to pursue my passion for programming!  
