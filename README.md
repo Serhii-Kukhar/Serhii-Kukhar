@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Serhii-Kukhar  
+- 👋 Hi, I’m Serhii-Kukhar  
 - 👀 I’m interested in web development, hydroengineering, and self-improvement.  
 - 🌱 I’m currently learning JavaScript, HTML, CSS, and preparing for my first web project.  
 - 💞️ I’m looking to collaborate on beginner-friendly web development projects and creative ideas.  
